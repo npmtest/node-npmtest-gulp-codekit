@@ -1,34 +1,34 @@
 <svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="494" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 06:08:18 +0000    21078 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 06:08:18 +0000     3899 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 06:08:18 +0000     8291 bytes  index.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 06:08:18 +0000      887 bytes  package.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 06:08:18 +0000      148 bytes  test/expected/html/basic-include-output.html</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 06:08:18 +0000       36 bytes  test/expected/js/basic-include.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 06:08:18 +0000      543 bytes  test/expected/js/big-dummy-project-file.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 06:08:18 +0000       35 bytes  test/expected/js/include-trees.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 06:08:18 +0000       70 bytes  test/expected/js/options-extensions.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 06:08:18 +0000      135 bytes  test/expected/js/recursive.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 06:08:18 +0000      276 bytes  test/expected/js/whitespace.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 06:08:18 +0000      150 bytes  test/fixtures/html/basic-include.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 06:08:18 +0000       24 bytes  test/fixtures/html/test.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 06:08:18 +0000       96 bytes  test/fixtures/js/basic-include.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 06:08:18 +0000      698 bytes  test/fixtures/js/big-dummy-project-file.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 06:08:18 +0000        7 bytes  test/fixtures/js/deep_path/b.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 06:08:18 +0000        7 bytes  test/fixtures/js/deep_path/deeper_path/c.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 06:08:18 +0000       11 bytes  test/fixtures/js/deep_path/text.txt</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 06:08:18 +0000       48 bytes  test/fixtures/js/include-trees.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 06:08:18 +0000       88 bytes  test/fixtures/js/options-extensions.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 06:08:18 +0000       95 bytes  test/fixtures/js/recursive.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 06:08:18 +0000       21 bytes  test/fixtures/js/recursive/deeper/deepest/recurs\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 06:09:25 +0000    21078 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 06:09:25 +0000     3899 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 06:09:25 +0000     8291 bytes  index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 06:09:25 +0000      887 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 06:09:25 +0000      148 bytes  test/expected/html/basic-include-output.html</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 06:09:25 +0000       36 bytes  test/expected/js/basic-include.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 06:09:25 +0000      543 bytes  test/expected/js/big-dummy-project-file.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 06:09:25 +0000       35 bytes  test/expected/js/include-trees.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 06:09:25 +0000       70 bytes  test/expected/js/options-extensions.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 06:09:25 +0000      135 bytes  test/expected/js/recursive.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 06:09:25 +0000      276 bytes  test/expected/js/whitespace.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 06:09:25 +0000      150 bytes  test/fixtures/html/basic-include.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 06:09:25 +0000       24 bytes  test/fixtures/html/test.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 06:09:25 +0000       96 bytes  test/fixtures/js/basic-include.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 06:09:25 +0000      698 bytes  test/fixtures/js/big-dummy-project-file.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 06:09:25 +0000        7 bytes  test/fixtures/js/deep_path/b.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 06:09:25 +0000        7 bytes  test/fixtures/js/deep_path/deeper_path/c.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 06:09:25 +0000       11 bytes  test/fixtures/js/deep_path/text.txt</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 06:09:25 +0000       48 bytes  test/fixtures/js/include-trees.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 06:09:25 +0000       88 bytes  test/fixtures/js/options-extensions.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 06:09:25 +0000       95 bytes  test/fixtures/js/recursive.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 06:09:25 +0000       21 bytes  test/fixtures/js/recursive/deeper/deepest/recurs\</tspan>
 <tspan x="10" y="378">ive-three.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-21 06:08:18 +0000       57 bytes  test/fixtures/js/recursive/deeper/recursive-two.\</tspan>
+<tspan x="10" y="394"> 22.  2017-04-21 06:09:25 +0000       57 bytes  test/fixtures/js/recursive/deeper/recursive-two.\</tspan>
 <tspan x="10" y="410">js</tspan>
-<tspan x="10" y="426"> 23.  2017-04-21 06:08:18 +0000      127 bytes  test/fixtures/js/recursive/recursive-one.js</tspan>
-<tspan x="10" y="442"> 24.  2017-04-21 06:08:18 +0000      197 bytes  test/fixtures/js/whitespace.js</tspan>
-<tspan x="10" y="458"> 25.  2017-04-21 06:08:18 +0000       87 bytes  test/fixtures/js/whitespace/a.js</tspan>
-<tspan x="10" y="474"> 26.  2017-04-21 06:08:18 +0000     5045 bytes  test/main.js</tspan>
+<tspan x="10" y="426"> 23.  2017-04-21 06:09:25 +0000      127 bytes  test/fixtures/js/recursive/recursive-one.js</tspan>
+<tspan x="10" y="442"> 24.  2017-04-21 06:09:25 +0000      197 bytes  test/fixtures/js/whitespace.js</tspan>
+<tspan x="10" y="458"> 25.  2017-04-21 06:09:25 +0000       87 bytes  test/fixtures/js/whitespace/a.js</tspan>
+<tspan x="10" y="474"> 26.  2017-04-21 06:09:25 +0000     5045 bytes  test/main.js</tspan>
 </text>
 </svg>
